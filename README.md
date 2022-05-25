@@ -7,6 +7,7 @@
 </h3>
 
 </br>
+
 - 👨‍💻 I’m currently working on [RoosterHall - A Minecraft Server](https://t.me/RewindRoleplay)
 
 - 🧠 I’m currently learning **Vue, Vuetify, Linux Bash, Python**
@@ -16,6 +17,8 @@
 - 📫 How to reach me **signorpollito@gmail.com**
 
 - ⚡ Fun fact **I'm not a FAANG**
+
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
