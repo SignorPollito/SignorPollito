@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">A student who wants to learn new things every day. I always try to stay up to date with the newest technologies. I'm currently studying ICT. Java and MongoDB lover 😍</h3>
+<h3 align="center">A student who wants to learn new things every day.</h3>
+<h3 align="center">I always try to stay up to date with the newest technologies.</h3>
+<h3 align="center">I'm currently studying ICT.</h3>
+<h3 align="center">Java and MongoDB lover 😍</h3>
 
 - 👨‍💻 I’m currently working on [RoosterHall - A Minecraft Server](https://t.me/RewindRoleplay)
 
