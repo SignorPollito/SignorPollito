@@ -8,7 +8,7 @@
 
 </br>
 
-- 👨‍💻 I’m currently working on [RoosterHall - A Minecraft Server](https://t.me/RewindRoleplay)
+- 👨‍💻 I’m currently working on [Something Secret](https://t.me/SirPollito)
 
 - 🧠 I’m currently learning **Vue, Vuetify, Linux Bash, Python**
 
